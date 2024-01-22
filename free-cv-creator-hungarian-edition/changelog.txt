@@ -1,0 +1,32 @@
+2.2 (2024-01-16)
+	- The database file was recreated.
+	- A database export file was created for the example user.
+	- The required softwares' download link and installation guide were added.
+	- The readme file was updated.
+
+2.1 (2024-01-14)
+	- The pdf-controller's personal details printout conditions were tweaked.
+	- The file already exists upload image condition is no longer relevant, so it was removed.
+	- A help text was created for the qualification and workplace templates.
+	- PDF generation is now denied if the uploaded image fails at check. The page will be refreshed instead.
+	- The language inputs are now properly validated and were redesigned.
+
+2.0 (2024-01-13)
+	- This changelog was created.
+	- The website folder structure was completely recreated. File and folder paths were redefined.
+	- Some variables were renamed for unified naming convention.
+	- Bootstrap css and js files were implemented physically instead of CDN.
+	- Custom Css and js files were separated for a single scope each.
+	- Templates were created for cleaner code.
+	- The public profile link secondary navbar got a new color.
+	- The home page gallery was redesigned.
+	- The quality of life features list was tweaked.
+	- An access denied page was created. Page access is now validated at the route.
+	- Some input printout conditions were redefined.
+	- The image upload feedback line was redesigned. Limitations are now shown in the label.
+	- The I am a freshman checkbox function was tweaked.
+	- The pdf-ontroller file was tweaked.
+	- Public PDFs are now deleted on submit if the make my profile public checkbox is unchecked. Also the uploaded profile image is deleted after the PDF was generated.
+	- More comments were added for clarification.
+	- Functions not ready for deployment were commented out.
+	- The readme file was created.
