@@ -1,0 +1,25 @@
+/* Makes the pop-up windows to be on top no matter what. */
+.modal-backdrop {
+    z-index: 2;
+}
+
+/* Navbar. */
+#spanLoggedIn {
+    color: green;
+}
+
+/* Public profile link secondary navbar. */
+#navPublicProfileLink {
+    background-color: darkgreen!important;
+    margin-top: 56px;
+    z-index: 1;
+}
+
+#aPublicProfileLink {
+    text-decoration: none;
+}
+
+/* Custom small tag style. */
+small {
+    font-size: 12px;
+}

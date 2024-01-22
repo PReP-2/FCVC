@@ -1,0 +1,33 @@
+Example CV text:
+
+USER - *************************************************************************************************************************************************
+E-mail address: nagy.istvan@domain.hu
+Password: admin
+
+PERSONAL DETAILS - *************************************************************************************************************************************************
+First name: Nagy
+Last name: István
+Address: 1212 Budapest, Béke tér 1.
+Phone number: +36 30 000 0000
+Profile image: example-cv-image.jpg
+
+EDUCATION AND QUALIFICATIONS - *************************************************************************************************************************************
+Start of study: 01/01/1999
+End of study: 01/01/2000
+Institution name: Budapesti Képzési Központ
+Qualification: Webfejlesztő
+Studies: HTML, CSS, Bootstrap, PHP, MySQL, MSSQL, Git, Unit testing
+
+WORK EXPERIENCE - **************************************************************************************************************************************************
+Start of employment: 01/01/2000
+End of employment: -
+Workplace name: Budapesti Műszaki Egyetem
+Position: Informatikus
+Job description: Helyszíni informatikai támogatói feladatok ellátása (hibaelhárítás, üzembe helyezés, költöztetés, telepítés, stb.). A felmerülő problémák megoldása, vagy hatáskör hiányában továbbítása a megfelelő szakembereknek, illetve a vezetés felé. Kapcsolattartás az ügyfelekkel, vezetőkkel, a támogatásban részt vevő külső szolgáltatókkal. A feladatokhoz kapcsolódó adminisztrációs munkák elvégzése.
+
+LANGUAGES - ********************************************************************************************************************************************************
+Language: Angol
+Level: B2 - Középfok
+
+SKILLS - ***********************************************************************************************************************************************************
+Microsoft Office csomag haladó szintű ismerete.

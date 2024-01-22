@@ -1,0 +1,20 @@
+/* Gallery. */
+@media (max-width: 767.98px) {
+    img.img-thumbnail {
+        max-width: 31.4%!important;
+    }
+}
+
+img.img-thumbnail {
+    border: 1px solid #d25400;
+    max-width: 75%;
+}
+
+img.img-thumbnail:hover {
+    border: 2px solid #d25400;
+}
+
+/* Quality of life features. */
+mark {
+    padding-bottom: 6px;
+}

@@ -1,0 +1,29 @@
+/* Custom "required input" style. */
+.abbrMustBeFilled {
+    text-decoration: none!important;
+}
+
+.strongMustBeFilled {
+    color: #dc3545;
+}
+
+/* Makes the email input field look like its disabled. */
+#inputEmail {
+    background-color: #e9ecef;
+}
+
+#inputEmail:focus {
+    border-color: #dee2e6;
+    box-shadow: none;
+}
+
+/* Image upload error messages. */
+#inputImageUploadFeedback {
+    font-weight: bold;
+    color: #dc3545;
+}
+
+/* Custom checkbox style. */
+.form-check-input {
+    border: 2px solid grey;
+}
